@@ -3,8 +3,8 @@
 
 
 @font-face {
-    font-family: 'idroid' ;
-    src: url(../idroid.otf);
+    font-family: 'idroid';
+    src: url(/fontes/idroid.otf) format('opentype');
     font-weight: normal;
     
     
